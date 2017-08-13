@@ -33,6 +33,8 @@
 - Windows platform:
   - will be supported later
 
+- Mac
+  - `brew install jsoncpp`
 
 
 - check verion:
@@ -89,4 +91,3 @@
   - g_consumer.registerMessageListener(listener);
   - g_consumer.start();
   - g_consumer.shutdown();
-
